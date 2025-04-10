@@ -31,6 +31,16 @@ Join me in building something fun and meaningful — your contributions will be 
 - Responsive mobile-first design
 
 ---
+## 🔌 API Integration
+
+This project uses the **[MangaDex API](https://api.mangadex.org/docs/)** for manga content, including series info, chapters, and images.
+
+- The API is open and well-documented, provided by the [MangaDex team on GitLab](https://gitlab.com/mangadex-pub/mangadex-api).
+- We do **not** own or host any manga content. This site only **uses public endpoints** provided by MangaDex.
+- You can explore their API docs here: https://api.mangadex.org/docs/
+
+Please respect their terms of use and fair usage policies when working on this project.
+
 
 ## 🤝 How You Can Help
 
